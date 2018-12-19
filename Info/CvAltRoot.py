@@ -24,4 +24,4 @@
 ##
 ## Author: EmperorFool
 
-rootDir = "C:\Users\brayden\Documents\My Games\beyond the sword"
+rootDir = "C:/Users/brayden/Documents/My Games/beyond the sword"
